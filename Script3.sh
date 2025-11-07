@@ -9,3 +9,4 @@ echo "my new JDK home is=$JDK_HOME"
 echo "edit in the scrript"git
 echo "plz change the code "
 echo "abcd"
+echo "def"
