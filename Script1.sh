@@ -4,5 +4,3 @@ echo "We are from batch-27"
 echo "I am learning Git/Github"
 echo "abcd efg rfd"
 echo "I am from batch-30 and learning DevOps"
-echo "edited by branch1"
-
