@@ -9,4 +9,5 @@ echo "Adding one more line to test git stash"
 echo "my first repo"
 echo "my adding new line"
 echo "one more line we delete"
+echo "one more line we commit"
 
