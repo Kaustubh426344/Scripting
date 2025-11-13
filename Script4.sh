@@ -4,4 +4,6 @@ Class=Young-minds
 Batch=25
 PROFESSION=AWS/DevSecOps/Azure DevOps
 echo "this is my first repo"
+echo "hii all how are you"
+echo "go will"
 echo "hii all do work toghther how are you"
